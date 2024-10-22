@@ -1,3 +1,7 @@
+// Nama : Patrick Nicholas Hasiholan Sinaga
+// NIM : 103062330105
+// Kelas : S1 IT-KJ-23-002
+
 package main
 
 import (
